@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "last_updated": "2024-11-16T10:00:00Z",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Türkçe Pop",
+      "icon": "music",
+      "stations": [
+        {
+          "id": 1,
+          "name": "PowerTürk",
+          "url": "http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio",
+          "description": "Top Türkçe"
+        },
+        {
+          "id": 2,
+          "name": "Kral Pop",
+          "url": "http://46.20.3.204/listen.pls",
+          "description": "Pop Müzik"
+        },
+        {
+          "id": 3,
+          "name": "Radyo D",
+          "url": "http://37.247.98.8/stream/166/",
+          "description": "Türkçe Pop"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rock & Alternative",
+      "icon": "guitar",
+      "stations": [
+        {
+          "id": 10,
+          "name": "Best FM",
+          "url": "http://46.20.3.229/",
+          "description": "Pop/Rock"
+        },
+        {
+          "id": 11,
+          "name": "Number One FM",
+          "url": "http://n10101m.mediatriple.net/numberone",
+          "description": "Pop/Dance"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chill & Relax",
+      "icon": "spa",
+      "stations": [
+        {
+          "id": 20,
+          "name": "Radyo Pause",
+          "url": "http://radyopause.listenpowerapp.com/radyopause/mpeg/icecast.audio",
+          "description": "Chill/Relax"
+        },
+        {
+          "id": 21,
+          "name": "Power FM",
+          "url": "http://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio",
+          "description": "Türkçe Slow"
+        }
+      ]
+    }
+  ]
+}
