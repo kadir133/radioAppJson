@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "last_updated": "2024-11-17T10:00:00Z",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Türkçe Pop",
+      "icon": "music",
+      "description": "En popüler Türkçe pop radyolar"
+    },
+    {
+      "id": 2,
+      "name": "Rock & Alternative",
+      "icon": "guitar",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 999,
+      "name": "Diğer",
+      "icon": "radio",
+      "description": "Kategorize edilmemiş radyolar"
+    }
+  ]
+}
