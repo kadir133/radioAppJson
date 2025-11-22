@@ -4,14 +4,62 @@
   "categories": [
     {
       "id": 1,
-      "name": "Türkçe Pop",
-      "icon": "music",
+      "name": "Pop",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_pop.png",
       "description": "En popüler Türkçe pop radyolar"
     },
     {
       "id": 2,
-      "name": "Rock & Alternative",
-      "icon": "guitar",
+      "name": "Slow",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_slow.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 3,
+      "name": "Arabesk",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_arabesk.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 4,
+      "name": "THM",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_thm.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 5,
+      "name": "TSM",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_tsm.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 6,
+      "name": "İslami",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_islami.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 7,
+      "name": "Haber & Spor",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_haber&spor.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 8,
+      "name": "Rap & Rock",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_rap&rock.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 9,
+      "name": "Yabancı",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_yabanci.png",
+      "description": "Rock, alternative ve indie müzik"
+    },
+    {
+      "id": 10,
+      "name": "Klasik",
+      "icon": "https://github.com/kadir133/radioAppJson/icons/_klasik.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {

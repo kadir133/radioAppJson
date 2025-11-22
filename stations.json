@@ -1,13 +1,16 @@
 {
-  "version": 3,
-  "last_updated": "2025-11-17T10:00:00Z",
+  "version": 4,
+  "last_updated": "2025-11-22",
   "stations": [
     {
       "id": 0,
-      "categoryId": 999,
+      "categoryId": 7,
       "name": "A SPOR",
-      "favicon": null,
-      "tags": "classical",
+      "icon": null,
+      "tags": [
+        "Haber",
+        "Spor"
+      ],
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -33,7 +36,7 @@
       "id": 1,
       "categoryId": 999,
       "name": "GİMSA RADYO",
-      "favicon": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
+      "icon": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
       "tags": null,
       "alternatives": [
         {
@@ -51,7 +54,7 @@
       "id": 2,
       "categoryId": 999,
       "name": "(93.0) IGDIR FM",
-      "favicon": "https://www.radyodinle.one/img/205x205/igdir-fm.jpg",
+      "icon": "https://www.radyodinle.one/img/205x205/igdir-fm.jpg",
       "tags": [
         "entretenimiento",
         "local news",
@@ -77,7 +80,7 @@
       "id": 3,
       "categoryId": 999,
       "name": "101.1Megasite",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -93,9 +96,9 @@
     },
     {
       "id": 4,
-      "categoryId": 999,
+      "categoryId": 3,
       "name": "102.1 Arabeskin Merkezi Fm",
-      "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+      "icon": "https://images.keepone.net/1376-2022-10-17.png",
       "tags": [
         "arabesk",
         "arabesk fantazi",
@@ -118,7 +121,7 @@
       "id": 5,
       "categoryId": 999,
       "name": "107.4 Radio Voyage",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -136,7 +139,7 @@
       "id": 6,
       "categoryId": 999,
       "name": "90lar Pop",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -154,7 +157,7 @@
       "id": 7,
       "categoryId": 999,
       "name": "90lar turkey",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -170,10 +173,12 @@
     },
     {
       "id": 8,
-      "categoryId": 999,
+      "categoryId": 7,
       "name": "A Haber",
-      "favicon": null,
-      "tags": "news",
+      "icon": null,
+      "tags": [
+        "Haber"
+      ],
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -198,8 +203,8 @@
     {
       "id": 9,
       "categoryId": 999,
-      "name": "a PARA",
-      "favicon": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
+      "name": "A PARA",
+      "icon": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
       "tags": null,
       "alternatives": [
         {
@@ -217,7 +222,7 @@
       "id": 10,
       "categoryId": 999,
       "name": "Abuzer FM",
-      "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png",
+      "icon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png",
       "tags": [
         "comedy",
         "pop",
@@ -239,7 +244,7 @@
       "id": 11,
       "categoryId": 999,
       "name": "AÇS Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "international",
       "alternatives": [
         {
@@ -257,8 +262,8 @@
       "id": 12,
       "categoryId": 999,
       "name": "Akra FM",
-      "favicon": null,
-      "tags": "islamic",
+      "icon": null,
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -275,7 +280,7 @@
       "id": 13,
       "categoryId": 999,
       "name": "ALEM FM",
-      "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+      "icon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
       "tags": "classical",
       "alternatives": [
         {
@@ -320,7 +325,7 @@
       "id": 14,
       "categoryId": 999,
       "name": "ALTIN ŞARKILAR",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "golden oldies",
         "retro"
@@ -350,7 +355,7 @@
       "id": 15,
       "categoryId": 999,
       "name": "andromeda radio",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -377,7 +382,7 @@
       "id": 16,
       "categoryId": 999,
       "name": "Ankara Havalari",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -395,7 +400,7 @@
       "id": 17,
       "categoryId": 999,
       "name": "Apacik Radyo",
-      "favicon": "https://apacikradyo.com.tr/logo1024",
+      "icon": "https://apacikradyo.com.tr/logo1024",
       "tags": [
         "culture",
         "talk",
@@ -428,7 +433,7 @@
       "id": 18,
       "categoryId": 999,
       "name": "Arabesk FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "müzik",
         "türkçe"
@@ -449,7 +454,7 @@
       "id": 19,
       "categoryId": 999,
       "name": "Arkadas Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hits",
         "pop",
@@ -471,7 +476,7 @@
       "id": 20,
       "categoryId": 999,
       "name": "Aşk FM",
-      "favicon": "https://www.radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
+      "icon": "https://www.radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
       "tags": "pop music",
       "alternatives": [
         {
@@ -489,7 +494,7 @@
       "id": 21,
       "categoryId": 999,
       "name": "Atatürk Airport (LTBA) ATC Tower",
-      "favicon": "https://i.ibb.co/kgWn5Ht/ATC-Tower.png",
+      "icon": "https://i.ibb.co/kgWn5Ht/ATC-Tower.png",
       "tags": [
         "airport",
         "turkiye"
@@ -510,7 +515,7 @@
       "id": 22,
       "categoryId": 999,
       "name": "Avrasya Türk Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -528,7 +533,7 @@
       "id": 23,
       "categoryId": 999,
       "name": "Azadi Fm",
-      "favicon": "http://canlikurtceradyodinle.com/favicon.ico",
+      "icon": "http://canlikurtceradyodinle.com/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -546,7 +551,7 @@
       "id": 24,
       "categoryId": 999,
       "name": "Baba Radyo",
-      "favicon": "https://www.babaradyo.com/wp-content/uploads/2025/01/cropped-baba-radyo-23-180x180.png",
+      "icon": "https://www.babaradyo.com/wp-content/uploads/2025/01/cropped-baba-radyo-23-180x180.png",
       "tags": [
         "folk",
         "classic hits"
@@ -585,7 +590,7 @@
       "id": 25,
       "categoryId": 999,
       "name": "BABYLAND TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -603,7 +608,7 @@
       "id": 26,
       "categoryId": 999,
       "name": "Banko Fm 1",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -621,13 +626,8 @@
       "id": 27,
       "categoryId": 999,
       "name": "BASER KURAN ve Meal",
-      "favicon": "http://baser.org/favicon.ico",
-      "tags": [
-        "dini",
-        "i̇slamic",
-        "muslim",
-        "quran"
-      ],
+      "icon": "http://baser.org/favicon.ico",
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -644,7 +644,7 @@
       "id": 28,
       "categoryId": 999,
       "name": "BASER KURAN VE MEAL RADYO",
-      "favicon": "http://baser.org/favicon.ico",
+      "icon": "http://baser.org/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -662,7 +662,7 @@
       "id": 29,
       "categoryId": 999,
       "name": "Batı Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -680,7 +680,7 @@
       "id": 30,
       "categoryId": 999,
       "name": "Bayram FM",
-      "favicon": "https://www.radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg",
+      "icon": "https://www.radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg",
       "tags": null,
       "alternatives": [
         {
@@ -698,7 +698,7 @@
       "id": 31,
       "categoryId": 999,
       "name": "BAYRAM FM TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -716,7 +716,7 @@
       "id": 32,
       "categoryId": 999,
       "name": "Best Fm",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -734,7 +734,7 @@
       "id": 33,
       "categoryId": 999,
       "name": "BesteFM",
-      "favicon": "http://www.bestefm.de/img/favicon.ico",
+      "icon": "http://www.bestefm.de/img/favicon.ico",
       "tags": [
         "hiphop",
         "pop",
@@ -756,7 +756,7 @@
       "id": 34,
       "categoryId": 999,
       "name": "Beyaz TV ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -774,7 +774,7 @@
       "id": 35,
       "categoryId": 999,
       "name": "BİLECİK FM TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -792,7 +792,7 @@
       "id": 36,
       "categoryId": 999,
       "name": "Bizim Radyo ",
-      "favicon": null,
+      "icon": null,
       "tags": "talk & speech",
       "alternatives": [
         {
@@ -810,7 +810,7 @@
       "id": 37,
       "categoryId": 999,
       "name": "BloombergHTradyo ",
-      "favicon": null,
+      "icon": null,
       "tags": "news",
       "alternatives": [
         {
@@ -828,7 +828,7 @@
       "id": 38,
       "categoryId": 999,
       "name": "Borusan Klasik",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -846,7 +846,7 @@
       "id": 39,
       "categoryId": 999,
       "name": "BRTK",
-      "favicon": "https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d",
+      "icon": "https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d",
       "tags": null,
       "alternatives": [
         {
@@ -864,7 +864,7 @@
       "id": 40,
       "categoryId": 999,
       "name": "Can Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -882,7 +882,7 @@
       "id": 41,
       "categoryId": 999,
       "name": "Can Tv",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -900,7 +900,7 @@
       "id": 42,
       "categoryId": 999,
       "name": "Cantürk Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -918,7 +918,7 @@
       "id": 43,
       "categoryId": 999,
       "name": "CLASSICLAND TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -936,7 +936,7 @@
       "id": 44,
       "categoryId": 999,
       "name": "Cnn Türk Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -954,7 +954,7 @@
       "id": 45,
       "categoryId": 999,
       "name": "Dadaş Fm Erzurum",
-      "favicon": "https://sslyayin.netyayin.net:8084/stream/;stream.mp3 ",
+      "icon": "https://sslyayin.netyayin.net:8084/stream/;stream.mp3 ",
       "tags": null,
       "alternatives": [
         {
@@ -972,7 +972,7 @@
       "id": 46,
       "categoryId": 999,
       "name": "Damar Turk FM",
-      "favicon": [
+      "icon": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlkZWbK47GUO6iQFP2yohP0z_5X3WpdjdMQ&amp;s",
         "https://www.damarturkfm.com/favicon.ico"
       ],
@@ -1002,7 +1002,7 @@
       "id": 47,
       "categoryId": 999,
       "name": "Damarın Merkezi Fm",
-      "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+      "icon": "https://images.keepone.net/1376-2022-10-17.png",
       "tags": [
         "arabesk fantazi",
         "arabic",
@@ -1025,7 +1025,7 @@
       "id": 48,
       "categoryId": 999,
       "name": "DamarTurk FM",
-      "favicon": "https://www.damarturkfm.com/favicon.ico",
+      "icon": "https://www.damarturkfm.com/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -1043,7 +1043,7 @@
       "id": 49,
       "categoryId": 999,
       "name": "Danceland",
-      "favicon": "https://like.radio/favicon.ico",
+      "icon": "https://like.radio/favicon.ico",
       "tags": "electronic",
       "alternatives": [
         {
@@ -1070,7 +1070,7 @@
       "id": 50,
       "categoryId": 999,
       "name": "DanceLand Anthems",
-      "favicon": "https://like.radio/favicon.ico",
+      "icon": "https://like.radio/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -1088,7 +1088,7 @@
       "id": 51,
       "categoryId": 999,
       "name": "Danceland turkey",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1106,7 +1106,7 @@
       "id": 52,
       "categoryId": 999,
       "name": "Denge Gundeme",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -1124,7 +1124,7 @@
       "id": 53,
       "categoryId": 999,
       "name": "Dijital radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1142,7 +1142,7 @@
       "id": 54,
       "categoryId": 999,
       "name": "dinamo.fm caffe",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
       "tags": [
         "chillout",
         "lounge",
@@ -1164,7 +1164,7 @@
       "id": 55,
       "categoryId": 999,
       "name": "dinamo.fm deep",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
       "tags": [
         "deep house",
         "house",
@@ -1186,7 +1186,7 @@
       "id": 56,
       "categoryId": 999,
       "name": "dinamo.fm discotheque",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
       "tags": [
         "70s",
         "disco",
@@ -1209,7 +1209,7 @@
       "id": 57,
       "categoryId": 999,
       "name": "dinamo.fm fluent",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
       "tags": [
         "atmospheric",
         "d&b",
@@ -1232,7 +1232,7 @@
       "id": 58,
       "categoryId": 999,
       "name": "dinamo.fm legacy",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
       "tags": [
         "chillout",
         "deep house",
@@ -1259,7 +1259,7 @@
       "id": 59,
       "categoryId": 999,
       "name": "dinamo.fm locodyno",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
       "tags": [
         "dj sets",
         "dub",
@@ -1285,7 +1285,7 @@
       "id": 60,
       "categoryId": 999,
       "name": "dinamo.fm sleep",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
       "tags": [
         "ambient",
         "chillout",
@@ -1310,7 +1310,7 @@
       "id": 61,
       "categoryId": 999,
       "name": "dinamo.fm smog",
-      "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
+      "icon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
       "tags": [
         "deep",
         "dub",
@@ -1333,7 +1333,7 @@
       "id": 62,
       "categoryId": 999,
       "name": "Discoland",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1351,8 +1351,8 @@
       "id": 63,
       "categoryId": 999,
       "name": "Diyanet Kur'an Radyo",
-      "favicon": null,
-      "tags": "islamic",
+      "icon": null,
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -1369,9 +1369,9 @@
       "id": 64,
       "categoryId": 999,
       "name": "Diyanet Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": [
-        "islamic",
+        "İslami",
         "religion"
       ],
       "alternatives": [
@@ -1390,11 +1390,10 @@
       "id": 65,
       "categoryId": 999,
       "name": "Diyarbakır Çağrı FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "ilahi",
-        "islam",
-        "islamic"
+        "İslami"
       ],
       "alternatives": [
         {
@@ -1412,7 +1411,7 @@
       "id": 66,
       "categoryId": 999,
       "name": "Doğan 22",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -1430,7 +1429,7 @@
       "id": 67,
       "categoryId": 999,
       "name": "Doğu Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -1448,7 +1447,7 @@
       "id": 68,
       "categoryId": 999,
       "name": "Dost",
-      "favicon": "http://dostfm.com/favicon.ico",
+      "icon": "http://dostfm.com/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -1466,7 +1465,7 @@
       "id": 69,
       "categoryId": 999,
       "name": "Dost FM",
-      "favicon": null,
+      "icon": null,
       "tags": "talk & speech",
       "alternatives": [
         {
@@ -1484,7 +1483,7 @@
       "id": 70,
       "categoryId": 999,
       "name": "Dost Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -1502,7 +1501,7 @@
       "id": 71,
       "categoryId": 999,
       "name": "Easyland",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1520,7 +1519,7 @@
       "id": 72,
       "categoryId": 999,
       "name": "EFSANE 4LÜ TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1538,7 +1537,7 @@
       "id": 73,
       "categoryId": 999,
       "name": "EGE HAVALARI TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1556,7 +1555,7 @@
       "id": 74,
       "categoryId": 999,
       "name": "Elazığ Mavi Radyo",
-      "favicon": "https://maviradyo.net/assets/images/logo2.png",
+      "icon": "https://maviradyo.net/assets/images/logo2.png",
       "tags": null,
       "alternatives": [
         {
@@ -1574,7 +1573,7 @@
       "id": 75,
       "categoryId": 999,
       "name": "Emek radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1592,8 +1591,8 @@
       "id": 76,
       "categoryId": 999,
       "name": "Enderun FM",
-      "favicon": "https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png",
-      "tags": "islamic",
+      "icon": "https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png",
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -1610,7 +1609,7 @@
       "id": 77,
       "categoryId": 999,
       "name": "Engelliler radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -1628,7 +1627,7 @@
       "id": 78,
       "categoryId": 999,
       "name": "Ereğli FM",
-      "favicon": "https://ereglifm.com.tr/assets/imgs/logo.svg",
+      "icon": "https://ereglifm.com.tr/assets/imgs/logo.svg",
       "tags": [
         "local news",
         "pop"
@@ -1649,14 +1648,11 @@
       "id": 79,
       "categoryId": 999,
       "name": "Erkam Radyo",
-      "favicon": "https://www.erkamradyo.com/images/logos/logo.png",
+      "icon": "https://www.erkamradyo.com/images/logos/logo.png",
       "tags": [
-        "islam",
-        "islamic",
+        "İslami",
         "istanbul",
-        "turk",
-        "muslim",
-        "religion"
+        "turk"
       ],
       "alternatives": [
         {
@@ -1683,7 +1679,7 @@
       "id": 80,
       "categoryId": 999,
       "name": "Erkam Radyo 2nd Stream",
-      "favicon": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0",
+      "icon": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0",
       "tags": null,
       "alternatives": [
         {
@@ -1701,7 +1697,7 @@
       "id": 81,
       "categoryId": 999,
       "name": "Erzincan Cem Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -1719,7 +1715,7 @@
       "id": 82,
       "categoryId": 999,
       "name": "Erzincan Nostalji Radyo ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1737,7 +1733,7 @@
       "id": 83,
       "categoryId": 999,
       "name": "Fakir Fm",
-      "favicon": "https://www.fakirfm.com/favicon.ico",
+      "icon": "https://www.fakirfm.com/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -1755,7 +1751,7 @@
       "id": 84,
       "categoryId": 999,
       "name": "Fenerbahce Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1773,7 +1769,7 @@
       "id": 85,
       "categoryId": 999,
       "name": "Fenomen 2010'lar 256",
-      "favicon": "https://cdn.radyofenomen.com/image/200x200/u/Channels/v2/logo_67.png?v=",
+      "icon": "https://cdn.radyofenomen.com/image/200x200/u/Channels/v2/logo_67.png?v=",
       "tags": null,
       "alternatives": [
         {
@@ -1791,7 +1787,7 @@
       "id": 86,
       "categoryId": 999,
       "name": "Fenomen 256",
-      "favicon": "https://cdn.radyofenomen.com/image/200x200/u/Channels/v2/logo_20.png?v=",
+      "icon": "https://cdn.radyofenomen.com/image/200x200/u/Channels/v2/logo_20.png?v=",
       "tags": null,
       "alternatives": [
         {
@@ -1809,7 +1805,7 @@
       "id": 87,
       "categoryId": 999,
       "name": "FENOMEN AKUSTIK",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1827,7 +1823,7 @@
       "id": 88,
       "categoryId": 999,
       "name": "Fenomen Clubbin 256",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1845,7 +1841,7 @@
       "id": 89,
       "categoryId": 999,
       "name": "FENOMEN DANS",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1863,7 +1859,7 @@
       "id": 90,
       "categoryId": 999,
       "name": "Fenomen Dans 256",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1881,7 +1877,7 @@
       "id": 91,
       "categoryId": 999,
       "name": "FENOMEN KARISIK",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1899,7 +1895,7 @@
       "id": 92,
       "categoryId": 999,
       "name": "Fenomen Karışık 256",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1917,7 +1913,7 @@
       "id": 93,
       "categoryId": 999,
       "name": "FENOMEN POP",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1935,7 +1931,7 @@
       "id": 94,
       "categoryId": 999,
       "name": "Fenomen Pop 256",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1953,7 +1949,7 @@
       "id": 95,
       "categoryId": 999,
       "name": "FENOMEN RAP",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1971,7 +1967,7 @@
       "id": 96,
       "categoryId": 999,
       "name": "FENOMEN TÜRK",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -1989,7 +1985,7 @@
       "id": 97,
       "categoryId": 999,
       "name": "Fenomen Türk 256",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2007,7 +2003,7 @@
       "id": 98,
       "categoryId": 999,
       "name": "Fenomen Türkçe Rap",
-      "favicon": "https://radyodinle.in/img/rd-rsm/canli-fenomen-turkce-rap-dinle.jpg",
+      "icon": "https://radyodinle.in/img/rd-rsm/canli-fenomen-turkce-rap-dinle.jpg",
       "tags": [
         "hip hop",
         "rap"
@@ -2028,7 +2024,7 @@
       "id": 99,
       "categoryId": 999,
       "name": "FG 93.8 (Future Generation) mp3 128k",
-      "favicon": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg",
+      "icon": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg",
       "tags": [
         "chill-out",
         "edm",
@@ -2052,7 +2048,7 @@
       "id": 100,
       "categoryId": 999,
       "name": "FIND A CUTİE",
-      "favicon": "https://stream.zeno.fm/lyl2uv7fcvovv",
+      "icon": "https://stream.zeno.fm/lyl2uv7fcvovv",
       "tags": null,
       "alternatives": [
         {
@@ -2070,7 +2066,7 @@
       "id": 101,
       "categoryId": 999,
       "name": "FIND A CUTİE <3",
-      "favicon": "https://stream.zeno.fm/lyl2uv7fcvovv",
+      "icon": "https://stream.zeno.fm/lyl2uv7fcvovv",
       "tags": null,
       "alternatives": [
         {
@@ -2088,7 +2084,7 @@
       "id": 102,
       "categoryId": 999,
       "name": "Fırat FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hits",
         "pop",
@@ -2110,7 +2106,7 @@
       "id": 103,
       "categoryId": 999,
       "name": "Genç FM",
-      "favicon": "https://www.gencfm.com.tr/static/2022/05/18/logo1234-1652884523-699.png",
+      "icon": "https://www.gencfm.com.tr/static/2022/05/18/logo1234-1652884523-699.png",
       "tags": "pop music",
       "alternatives": [
         {
@@ -2128,7 +2124,7 @@
       "id": 104,
       "categoryId": 999,
       "name": "Giresun FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "pop",
         "turkish music"
@@ -2149,7 +2145,7 @@
       "id": 105,
       "categoryId": 999,
       "name": "GÖKKUŞAĞI RADYO TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2167,7 +2163,7 @@
       "id": 106,
       "categoryId": 999,
       "name": "Göl Radyo",
-      "favicon": "https://www.canliradyodinle.fm/wp-content/uploads/gol-radyo.jpg",
+      "icon": "https://www.canliradyodinle.fm/wp-content/uploads/gol-radyo.jpg",
       "tags": [
         "folk",
         "pop"
@@ -2188,7 +2184,7 @@
       "id": 107,
       "categoryId": 999,
       "name": "Govend radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2206,8 +2202,8 @@
       "id": 108,
       "categoryId": 999,
       "name": "Gözyaşı FM",
-      "favicon": null,
-      "tags": "islamic",
+      "icon": null,
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -2224,7 +2220,7 @@
       "id": 109,
       "categoryId": 999,
       "name": "GREEKLAND",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2242,7 +2238,7 @@
       "id": 110,
       "categoryId": 999,
       "name": "Gundi Fm",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -2260,7 +2256,7 @@
       "id": 111,
       "categoryId": 999,
       "name": "Habertürk Radyo ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2278,7 +2274,7 @@
       "id": 112,
       "categoryId": 999,
       "name": "Habertürk Radyo",
-      "favicon": "https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png",
+      "icon": "https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png",
       "tags": null,
       "alternatives": [
         {
@@ -2296,7 +2292,7 @@
       "id": 113,
       "categoryId": 999,
       "name": "Halk Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -2314,7 +2310,7 @@
       "id": 114,
       "categoryId": 999,
       "name": "Halk Tv",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2329,32 +2325,10 @@
       ]
     },
     {
-      "id": 115,
-      "categoryId": 999,
-      "name": "Havin FM",
-      "favicon": null,
-      "tags": [
-        "folk music",
-        "kurdish folk music",
-        "kurdish songs"
-      ],
-      "alternatives": [
-        {
-          "name": "Alternative 1",
-          "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
-          "url_resolved": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
-          "codec": "MP3",
-          "geo_lat": null,
-          "geo_long": null,
-          "geo_distance": null
-        }
-      ]
-    },
-    {
       "id": 116,
       "categoryId": 999,
       "name": "HAYATMİX ",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -2372,7 +2346,7 @@
       "id": 117,
       "categoryId": 999,
       "name": "HaYaTMiX Slow",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2390,7 +2364,7 @@
       "id": 118,
       "categoryId": 999,
       "name": "Hemdem Radyo",
-      "favicon": [
+      "icon": [
         "https://hemdemradyo.com/favicon.ico",
         "https://hemdemradyo.com/gri.png"
       ],
@@ -2428,7 +2402,7 @@
       "id": 119,
       "categoryId": 999,
       "name": "Her An Kur'an Her An Mutluluk",
-      "favicon": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg",
+      "icon": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg",
       "tags": null,
       "alternatives": [
         {
@@ -2446,7 +2420,7 @@
       "id": 120,
       "categoryId": 999,
       "name": "HOME KLASİK TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2464,7 +2438,7 @@
       "id": 121,
       "categoryId": 999,
       "name": "HOS MİX",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2482,7 +2456,7 @@
       "id": 122,
       "categoryId": 999,
       "name": "HOUSELAND TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2500,7 +2474,7 @@
       "id": 123,
       "categoryId": 999,
       "name": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -2518,7 +2492,7 @@
       "id": 124,
       "categoryId": 999,
       "name": "imaj fm",
-      "favicon": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+      "icon": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
       "tags": null,
       "alternatives": [
         {
@@ -2536,7 +2510,7 @@
       "id": 125,
       "categoryId": 999,
       "name": "imaj fm Erzurum",
-      "favicon": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+      "icon": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
       "tags": null,
       "alternatives": [
         {
@@ -2554,7 +2528,7 @@
       "id": 126,
       "categoryId": 999,
       "name": "İstanbul FM",
-      "favicon": "https://www.istanbulfm.com.tr/favicon.ico",
+      "icon": "https://www.istanbulfm.com.tr/favicon.ico",
       "tags": "pop",
       "alternatives": [
         {
@@ -2581,7 +2555,7 @@
       "id": 127,
       "categoryId": 999,
       "name": "Istanbul FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2599,7 +2573,7 @@
       "id": 128,
       "categoryId": 999,
       "name": "ITÜ Radyosu Klasik",
-      "favicon": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=http%3a%2f%2fwww.radyo.itu.edu.tr%2f",
+      "icon": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=http%3a%2f%2fwww.radyo.itu.edu.tr%2f",
       "tags": null,
       "alternatives": [
         {
@@ -2617,7 +2591,7 @@
       "id": 129,
       "categoryId": 999,
       "name": "İTÜ Radyosu Rock",
-      "favicon": "http://www.radyo.itu.edu.tr/Sitefinity/WebsiteTemplates/GenelTemplate/App_Themes/ITUGenelTemplate/Images/favicon.ico",
+      "icon": "http://www.radyo.itu.edu.tr/Sitefinity/WebsiteTemplates/GenelTemplate/App_Themes/ITUGenelTemplate/Images/favicon.ico",
       "tags": "rock",
       "alternatives": [
         {
@@ -2635,7 +2609,7 @@
       "id": 130,
       "categoryId": 999,
       "name": "Joy Fm",
-      "favicon": null,
+      "icon": null,
       "tags": "international",
       "alternatives": [
         {
@@ -2662,7 +2636,7 @@
       "id": 131,
       "categoryId": 999,
       "name": "JOY TÜRK ROCK TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2680,7 +2654,7 @@
       "id": 132,
       "categoryId": 999,
       "name": "JOY TÜRK TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2698,7 +2672,7 @@
       "id": 133,
       "categoryId": 999,
       "name": "JoyTürk Akustik",
-      "favicon": "https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png",
+      "icon": "https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png",
       "tags": "pop",
       "alternatives": [
         {
@@ -2716,7 +2690,7 @@
       "id": 134,
       "categoryId": 999,
       "name": "Kafa Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2734,7 +2708,7 @@
       "id": 135,
       "categoryId": 999,
       "name": "Karadeniz FM",
-      "favicon": "https://static.wixstatic.com/media/9477e9_88c8630d8926464eac285c1df9d8ce54~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/karadeniz-fm-logopng.png",
+      "icon": "https://static.wixstatic.com/media/9477e9_88c8630d8926464eac285c1df9d8ce54~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/karadeniz-fm-logopng.png",
       "tags": null,
       "alternatives": [
         {
@@ -2752,7 +2726,7 @@
       "id": 136,
       "categoryId": 999,
       "name": "Kavanoz Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hits",
         "pop",
@@ -2774,7 +2748,7 @@
       "id": 137,
       "categoryId": 999,
       "name": "Kent FM",
-      "favicon": "https://static.wixstatic.com/media/9477e9_5d00a2e59e4d4bada251627401f75c91~mv2.png/v1/fill/w_150,h_114,al_c,q_85,usm_0.66_1.00_0.01/KENT_FM_LOGO.webp",
+      "icon": "https://static.wixstatic.com/media/9477e9_5d00a2e59e4d4bada251627401f75c91~mv2.png/v1/fill/w_150,h_114,al_c,q_85,usm_0.66_1.00_0.01/KENT_FM_LOGO.webp",
       "tags": null,
       "alternatives": [
         {
@@ -2792,7 +2766,7 @@
       "id": 138,
       "categoryId": 999,
       "name": "KEYF STATION",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -2810,7 +2784,7 @@
       "id": 139,
       "categoryId": 999,
       "name": "KİSS LOVE RADYO TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2828,7 +2802,7 @@
       "id": 140,
       "categoryId": 999,
       "name": "Kiss Türk",
-      "favicon": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
+      "icon": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
       "tags": null,
       "alternatives": [
         {
@@ -2846,7 +2820,7 @@
       "id": 141,
       "categoryId": 999,
       "name": "KIYI Muzik",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2864,7 +2838,7 @@
       "id": 142,
       "categoryId": 999,
       "name": "KIYI Turkce",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2882,7 +2856,7 @@
       "id": 143,
       "categoryId": 999,
       "name": "Kıyı Caz",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbYAAABzCAMAAADDhdfxAAAAsVBMVEX///8Ai/8Ah/8Ajf8Aif Ux//q9f9zuf8Ahf/3/P azP 03f8smP Qzf8AjP Cwv9crP8AgP/m8/8Af/85pP9Hqf Cv/8hmv8AfP/y v8Akf/M6P 74P/k8v/e7/9ptf v2P84n//U7P l0f8AeP/H5P9Zsv9Pp/91wf GyP8mlf Y0P m1/ 93P9Cmf9Xs/9ErP99u/9Mov9nr/ iyv96t/9lrP9luf95xP8hoP/D5v9kzvXAAAAKDElEQVR4nO2dCXeiSBCAuUTwiKJGBBQVNInE3DubSf7/D1tMPKqguwt3Mm/DbH3zXt4bsEH9LOijutG070LLP5L17P/63TAVaehHjDlrqwsN86StydrqAmurJaytlrC2WsLaaglrqyWsrZawtlrC2moJa6slrK2WsLZawtpqCWurJaytlrC2WsLaaglrqyWsrZawtlrC2moJa6slrK2WsLZawtpqCWurJaytlrC2WvLF2gIbEFQp4cIS/LupSAVtyaYHGHePNpLGaXP6sdVdXPdPNBP6/HYLFLhufR7bXYMTTr/iY/5p0NriFxNwYW6Pe9qdi8Nm/XLwsWmdWcfj6WaDPv96CQuknxvdlnU8YTj 9Q/550Fqm83B96pb5sI97mp3jrusvbagZ4AXX5LhFvTA0Y2X HOr2zodxex9yef8w6C02dhamJ6s5dqAoU9tWuSD11 k1OkjUbCxNhJCm910gDUdWRNqC8bAg3VNhFvQgMHZP7yatVGotdlj8LXm1lqocijSpk3PCbf4TXgrZG0USm3ozqPrWQNX6aG2x4M2uwlKGP2Z6uR51QME23N02s7a1Ki0FayFvUJDTBhtsKKSf kL1clnI/jS3vECzNooFNpcsIrC7vsbF4NRrM2ew3C7UrWgF CV1nJ9OjNrI5Brc1sh0vZUEiDWpi06oJR5Jz 3DYPtoglPzdrUSLW5rQxKcwTVTIk2 wWFm1sqd2ABr8EZ6A1hbRRSbSmMGd2ZCzoYJdq0LRRurssF91xCbVAva6OQaStYexTdomTagmsUbrJTT6E1sw32sDYKibaFT1uTatNuTVDYikRltUKwXcI9rI1CrK0N28y6g5yckGoLljDcHsRnjlCv2RbuYm0UQm3TDvpKJdbk2rQujFVD3MN1BZvab2gXa6MQaVujWNOl/fhybQE8gvUqKhzB5oVxi/axNgqBtmiJOiKvZfcmhTbtFh4iFHmHfWCWj uprI2irK1oTV6BV2gL4HCp3iyXjWBN1ejinayNoqQtGiFrz4qcAIU2bQOP4pfDrQcqm1ZW6HBmbRRFbQm2tlRlcqi0DVCHcumrT57hqPamsBdp46QEAQVt8TW0ZvltVVmVNg1mJ jL4v2xASskWTEYobYL1iYAaQviPqr5Z4p YI3QFvuKZKDkGux0xsVuS442CqhtnMAxl7wGuFCXVWpzeyCdoZidkKJgK1V6WBsF0Kb3H2GnVKl V0KpTUtgh3LYgrviF3hnK48tsDYKqA1J2yUaEGXV2oIxDLd DHYtYLCF5Ssxa6NoFFyhcCvW8AqoteVNMxBTIUgGms1BdcWYl0uyNgqVNt18V5YltAUw7csA4XZHBBtrI1Fq00fKuRSENm2Nwm1x2Gw3UXJkXC7I2ijU2i5KdXMIpc1 Qpnih66QNaqriDIpWRuFWpuVLRRlKW3aHQq3/dWwQt4ya6NQa9N1VTo41DYSaRug3Lv9k49QTcVsiMKZe0koRNpgjcEcyycXktpw7l340b/p9sSZyBDWRiHQNoepdlYmT OntQ1Q7l1z9wvAnV7i7n3WRlHSZl3Z O4zqjRMKtampaj6sTvSBh7bFw/msTaKojZjl6SVoHEA6ZTuCtrsPjz2q6vZviQTGcLaKArajLcPRws0lzeVtAIqaNNQRnqYaF34g8gko3msjQJrM/zPyHLHYKPlC1rEO6pos9F46I2Gsov6kjfF2iiQNuvt0CSO4YCYIc5uraRN68ITdG5gsJmyQVjWRoG0LU NtDasujst4WWykrbBEoUz/JFcSoqwNhKgDc4wwzk6eiis8VXShlNdITgTGcLaKKQzbmawDmiNRI3uatpsnCwLfiXS/k7WRiGflrhGl0lRuxhpk0/S3qDFFk6nu5WWYG0UiknAXTSRSVBXr6jNxrNSDyV8ea8Za6NQaAse4bjYc7kVUFGb9lMUbqqhc9ZGoVopIUFh0izdiqpqi0XhlklvhqyNRrkuSYq6NEp9ylW1aTflcBPeLA wNgr1cjJX0FtpkKWytqQcbpmk5 UD1kahXrwJjbLoxWn3lbUFqHPkI9gUw3isjYZYKg0u FLIUT1DG56D HEo6WjQDtZGQWjDQ2 F TfVtQV4yTVqfV/WRkGtJxnDlXqsOZJTXRvO1pJ1lh1hbRTk6q146K0lW0 S0IZy74r6S7A2ClJbgOZ9 jCH AxtboqCbaF U6yNgl7iOkF5BTCJ AxtA7h2rzATGcLaKCosKL9Aq5T04BLXlbXhtP W8rVYm/507kf6P1BBm4uH3k5D0tW12c1zVlBmbSRVnroxuwTarCVYp7Wqtgjl3ZGPB2BtFJUeljKF3/ppUZ/K2lz0dIDS/Pvy61kbQc9wDnhzaRt4YzmAw/jmIjxtk2V3fRCjBSbpOobb8E5H/nHmJ/pfEHVPTOVZArfgZZtDDkgMtm5VfYxwbRmro25ql9/VeR I SpstJLT/L9 O0w1unDuvSwTmfn9BJUezbbHPY3 GHr48tveFKPZSSI3E9w9jdeq2cGY7THYjPvxbYVnujH/juDux3I5ln3BwdjzvDCtHHCHNZEtR7VcHvOrDHphXgEfimd6asHTxLAMTzYPJ7hbYKHTfcvQcF4SzV2k8voq8yskL4bnOfk/4aqEwdgxPCt0vGwh/P4XoY6fqrJfE9kxn2Za8MO0sr/Y229g uwNs3E67nhep1W6EiY/cqfNu3UjHApXUVh3ht7xqYc73ndNbctw/NTWZi/5j8FTP66I TfYm3DozKNAC5Ke5 l/t1FoDFpLa2jeBbsBtHBolqd159Yy33HuT/3Nc8uyHKfTi1wtunY83c jmOzdYs4i3twbE vwPN6pNTHM5020/ 9g2rzXndV BV23pXtWcbWZbbjK2rOroae/7i UkW9ZnYc0zl94mxkTPx6kjidfNZs5lyDqjnRvtQLrx8ejVV430bPlw8PDo28aeT1ldXXsMx7n 9AqyIMHZ7XrunI33tDJPh/0HMziQbCT 37t5Nbsne Jp4snzDHVuX29 Xlz9RY6k9VqaL2iQHC3HW Y28n/fP69hLWUvHLiDC/fP6y49vvDcOXtgyzyJ95Qf30/3BoH26XnWJPl58O5G3nIEuPbDMXtKK8W5lYussub93IQRDejUDcMw9Kzx25hdGYb7uLP8UeXb508Tp3RaUW8rp5bnjjL15vX16vOcOLlodo8WIx 8lXyCwjiJEkG0uuW/T5tt6eJYP/s5zKzcul5RFr3V6i9YG/uL/JK52QynOR7DcPsc1v7  Am281Nc7y5fS 1FYJ28/o C00zzJ7/7nF81Qc3nm7TdDud5ZE6UCYiM98He7YPwSCO0maF4VHmG2A3 k tNKf11F SyZHMN2HdcYwLM fCcAxBlwrzHUFPW dgqwvxEi65S2UiM98DtwHXkyczkZnvwewx6xzx/4hg wfBk7e iXC8NQAAAABJRU5ErkJggg==",
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbYAAABzCAMAAADDhdfxAAAAsVBMVEX///8Ai/8Ah/8Ajf8Aif Ux//q9f9zuf8Ahf/3/P azP 03f8smP Qzf8AjP Cwv9crP8AgP/m8/8Af/85pP9Hqf Cv/8hmv8AfP/y v8Akf/M6P 74P/k8v/e7/9ptf v2P84n//U7P l0f8AeP/H5P9Zsv9Pp/91wf GyP8mlf Y0P m1/ 93P9Cmf9Xs/9ErP99u/9Mov9nr/ iyv96t/9lrP9luf95xP8hoP/D5v9kzvXAAAAKDElEQVR4nO2dCXeiSBCAuUTwiKJGBBQVNInE3DubSf7/D1tMPKqguwt3Mm/DbH3zXt4bsEH9LOijutG070LLP5L17P/63TAVaehHjDlrqwsN86StydrqAmurJaytlrC2WsLaaglrqyWsrZawtlrC2moJa6slrK2WsLZawtpqCWurJaytlrC2WsLaaglrqyWsrZawtlrC2moJa6slrK2WsLZawtpqCWurJaytlrC2WvLF2gIbEFQp4cIS/LupSAVtyaYHGHePNpLGaXP6sdVdXPdPNBP6/HYLFLhufR7bXYMTTr/iY/5p0NriFxNwYW6Pe9qdi8Nm/XLwsWmdWcfj6WaDPv96CQuknxvdlnU8YTj 9Q/550Fqm83B96pb5sI97mp3jrusvbagZ4AXX5LhFvTA0Y2X HOr2zodxex9yef8w6C02dhamJ6s5dqAoU9tWuSD11 k1OkjUbCxNhJCm910gDUdWRNqC8bAg3VNhFvQgMHZP7yatVGotdlj8LXm1lqocijSpk3PCbf4TXgrZG0USm3ozqPrWQNX6aG2x4M2uwlKGP2Z6uR51QME23N02s7a1Ki0FayFvUJDTBhtsKKSf kL1clnI/jS3vECzNooFNpcsIrC7vsbF4NRrM2ew3C7UrWgF CV1nJ9OjNrI5Brc1sh0vZUEiDWpi06oJR5Jz 3DYPtoglPzdrUSLW5rQxKcwTVTIk2 wWFm1sqd2ABr8EZ6A1hbRRSbSmMGd2ZCzoYJdq0LRRurssF91xCbVAva6OQaStYexTdomTagmsUbrJTT6E1sw32sDYKibaFT1uTatNuTVDYikRltUKwXcI9rI1CrK0N28y6g5yckGoLljDcHsRnjlCv2RbuYm0UQm3TDvpKJdbk2rQujFVD3MN1BZvab2gXa6MQaVujWNOl/fhybQE8gvUqKhzB5oVxi/axNgqBtmiJOiKvZfcmhTbtFh4iFHmHfWCWj uprI2irK1oTV6BV2gL4HCp3iyXjWBN1ejinayNoqQtGiFrz4qcAIU2bQOP4pfDrQcqm1ZW6HBmbRRFbQm2tlRlcqi0DVCHcumrT57hqPamsBdp46QEAQVt8TW0ZvltVVmVNg1mJ jL4v2xASskWTEYobYL1iYAaQviPqr5Z4p YI3QFvuKZKDkGux0xsVuS442CqhtnMAxl7wGuFCXVWpzeyCdoZidkKJgK1V6WBsF0Kb3H2GnVKl V0KpTUtgh3LYgrviF3hnK48tsDYKqA1J2yUaEGXV2oIxDLd DHYtYLCF5Ssxa6NoFFyhcCvW8AqoteVNMxBTIUgGms1BdcWYl0uyNgqVNt18V5YltAUw7csA4XZHBBtrI1Fq00fKuRSENm2Nwm1x2Gw3UXJkXC7I2ijU2i5KdXMIpc1 Qpnih66QNaqriDIpWRuFWpuVLRRlKW3aHQq3/dWwQt4ya6NQa9N1VTo41DYSaRug3Lv9k49QTcVsiMKZe0koRNpgjcEcyycXktpw7l340b/p9sSZyBDWRiHQNoepdlYmT OntQ1Q7l1z9wvAnV7i7n3WRlHSZl3Z O4zqjRMKtampaj6sTvSBh7bFw/msTaKojZjl6SVoHEA6ZTuCtrsPjz2q6vZviQTGcLaKArajLcPRws0lzeVtAIqaNNQRnqYaF34g8gko3msjQJrM/zPyHLHYKPlC1rEO6pos9F46I2Gsov6kjfF2iiQNuvt0CSO4YCYIc5uraRN68ITdG5gsJmyQVjWRoG0LU NtDasujst4WWykrbBEoUz/JFcSoqwNhKgDc4wwzk6eiis8VXShlNdITgTGcLaKKQzbmawDmiNRI3uatpsnCwLfiXS/k7WRiGflrhGl0lRuxhpk0/S3qDFFk6nu5WWYG0UiknAXTSRSVBXr6jNxrNSDyV8ea8Za6NQaAse4bjYc7kVUFGb9lMUbqqhc9ZGoVopIUFh0izdiqpqi0XhlklvhqyNRrkuSYq6NEp9ylW1aTflcBPeLA wNgr1cjJX0FtpkKWytqQcbpmk5 UD1kahXrwJjbLoxWn3lbUFqHPkI9gUw3isjYZYKg0u FLIUT1DG56D HEo6WjQDtZGQWjDQ2 F TfVtQV4yTVqfV/WRkGtJxnDlXqsOZJTXRvO1pJ1lh1hbRTk6q146K0lW0 S0IZy74r6S7A2ClJbgOZ9 jCH AxtboqCbaF U6yNgl7iOkF5BTCJ AxtA7h2rzATGcLaKCosKL9Aq5T04BLXlbXhtP W8rVYm/507kf6P1BBm4uH3k5D0tW12c1zVlBmbSRVnroxuwTarCVYp7Wqtgjl3ZGPB2BtFJUeljKF3/ppUZ/K2lz0dIDS/Pvy61kbQc9wDnhzaRt4YzmAw/jmIjxtk2V3fRCjBSbpOobb8E5H/nHmJ/pfEHVPTOVZArfgZZtDDkgMtm5VfYxwbRmro25ql9/VeR I SpstJLT/L9 O0w1unDuvSwTmfn9BJUezbbHPY3 GHr48tveFKPZSSI3E9w9jdeq2cGY7THYjPvxbYVnujH/juDux3I5ln3BwdjzvDCtHHCHNZEtR7VcHvOrDHphXgEfimd6asHTxLAMTzYPJ7hbYKHTfcvQcF4SzV2k8voq8yskL4bnOfk/4aqEwdgxPCt0vGwh/P4XoY6fqrJfE9kxn2Za8MO0sr/Y229g uwNs3E67nhep1W6EiY/cqfNu3UjHApXUVh3ht7xqYc73ndNbctw/NTWZi/5j8FTP66I TfYm3DozKNAC5Ke5 l/t1FoDFpLa2jeBbsBtHBolqd159Yy33HuT/3Nc8uyHKfTi1wtunY83c jmOzdYs4i3twbE vwPN6pNTHM5020/ 9g2rzXndV BV23pXtWcbWZbbjK2rOroae/7i UkW9ZnYc0zl94mxkTPx6kjidfNZs5lyDqjnRvtQLrx8ejVV430bPlw8PDo28aeT1ldXXsMx7n 9AqyIMHZ7XrunI33tDJPh/0HMziQbCT 37t5Nbsne Jp4snzDHVuX29 Xlz9RY6k9VqaL2iQHC3HW Y28n/fP69hLWUvHLiDC/fP6y49vvDcOXtgyzyJ95Qf30/3BoH26XnWJPl58O5G3nIEuPbDMXtKK8W5lYussub93IQRDejUDcMw9Kzx25hdGYb7uLP8UeXb508Tp3RaUW8rp5bnjjL15vX16vOcOLlodo8WIx 8lXyCwjiJEkG0uuW/T5tt6eJYP/s5zKzcul5RFr3V6i9YG/uL/JK52QynOR7DcPsc1v7  Am281Nc7y5fS 1FYJ28/o C00zzJ7/7nF81Qc3nm7TdDud5ZE6UCYiM98He7YPwSCO0maF4VHmG2A3 k tNKf11F SyZHMN2HdcYwLM fCcAxBlwrzHUFPW dgqwvxEi65S2UiM98DtwHXkyczkZnvwewx6xzx/4hg wfBk7e iXC8NQAAAABJRU5ErkJggg==",
       "tags": "jazz",
       "alternatives": [
         {
@@ -2909,7 +2883,7 @@
       "id": 144,
       "categoryId": 999,
       "name": "Kıyı Gece",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2936,7 +2910,7 @@
       "id": 145,
       "categoryId": 999,
       "name": "Kıyı Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2954,7 +2928,7 @@
       "id": 146,
       "categoryId": 999,
       "name": "Kıyı Türkçe",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2981,7 +2955,7 @@
       "id": 147,
       "categoryId": 999,
       "name": "KLAS RADİO TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -2999,11 +2973,9 @@
       "id": 148,
       "categoryId": 999,
       "name": "Konya İsra FM",
-      "favicon": "https://www.canliradyodinle.fm/wp-content/uploads/isra-fm.jpg",
+      "icon": "https://www.canliradyodinle.fm/wp-content/uploads/isra-fm.jpg",
       "tags": [
-        "islam",
-        "islamic",
-        "islma",
+        "İslami",
         "konya",
         "turk"
       ],
@@ -3023,7 +2995,7 @@
       "id": 149,
       "categoryId": 999,
       "name": "Köroğlu FM",
-      "favicon": "https://www.canliradyodinle.fm/wp-content/uploads/koroglu-fm.jpg",
+      "icon": "https://www.canliradyodinle.fm/wp-content/uploads/koroglu-fm.jpg",
       "tags": [
         "pop",
         "turkish pop"
@@ -3044,7 +3016,7 @@
       "id": 150,
       "categoryId": 999,
       "name": "KRAL FM",
-      "favicon": [
+      "icon": [
         "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
         "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png?v=2"
       ],
@@ -3074,7 +3046,7 @@
       "id": 151,
       "categoryId": 999,
       "name": "KRAL POP",
-      "favicon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+      "icon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
       "tags": null,
       "alternatives": [
         {
@@ -3092,7 +3064,7 @@
       "id": 152,
       "categoryId": 999,
       "name": "KRAL POP ALTERNATİF 2",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3110,7 +3082,7 @@
       "id": 153,
       "categoryId": 999,
       "name": "KRAL TÜRK FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3128,7 +3100,7 @@
       "id": 154,
       "categoryId": 999,
       "name": "KTU",
-      "favicon": "https://www.ktu.edu.tr/image/tr_bg.png",
+      "icon": "https://www.ktu.edu.tr/image/tr_bg.png",
       "tags": [
         "country",
         "pop",
@@ -3153,7 +3125,7 @@
       "id": 155,
       "categoryId": 999,
       "name": "Küpe FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3171,11 +3143,11 @@
       "id": 156,
       "categoryId": 999,
       "name": "KURAN ve TÜRKÇE MEAL",
-      "favicon": "http://baser.org/Kuran.jpg",
+      "icon": "http://baser.org/Kuran.jpg",
       "tags": [
         "dini",
         "eğitim",
-        "islamic"
+        "İslami"
       ],
       "alternatives": [
         {
@@ -3190,50 +3162,10 @@
       ]
     },
     {
-      "id": 157,
-      "categoryId": 999,
-      "name": "Kurd1 ",
-      "favicon": null,
-      "tags": "classical",
-      "alternatives": [
-        {
-          "name": "Alternative 1",
-          "url": "https://www.radioking.com/play/kurd1-radyo",
-          "url_resolved": "https://listen.radioking.com/radio/119251/stream/158701",
-          "codec": "MP3",
-          "geo_lat": null,
-          "geo_long": null,
-          "geo_distance": null
-        }
-      ]
-    },
-    {
-      "id": 158,
-      "categoryId": 999,
-      "name": "Kurd1 FM",
-      "favicon": null,
-      "tags": [
-        "folk music",
-        "kurdish folk music",
-        "kurdish songs"
-      ],
-      "alternatives": [
-        {
-          "name": "Alternative 1",
-          "url": "https://listen.radioking.com/radio/119251/stream/158701",
-          "url_resolved": "https://listen.radioking.com/radio/119251/stream/158701",
-          "codec": "MP3",
-          "geo_lat": null,
-          "geo_long": null,
-          "geo_distance": null
-        }
-      ]
-    },
-    {
       "id": 159,
       "categoryId": 999,
       "name": "KUZEY FM TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3251,7 +3183,7 @@
       "id": 160,
       "categoryId": 999,
       "name": "LALEGÜL FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3269,7 +3201,7 @@
       "id": 161,
       "categoryId": 999,
       "name": "Lig Radyo",
-      "favicon": "https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png",
+      "icon": "https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png",
       "tags": "classical",
       "alternatives": [
         {
@@ -3296,7 +3228,7 @@
       "id": 162,
       "categoryId": 999,
       "name": "literal",
-      "favicon": null,
+      "icon": null,
       "tags": "international",
       "alternatives": [
         {
@@ -3314,7 +3246,7 @@
       "id": 163,
       "categoryId": 999,
       "name": "lokum fm",
-      "favicon": null,
+      "icon": null,
       "tags": "country",
       "alternatives": [
         {
@@ -3332,7 +3264,7 @@
       "id": 164,
       "categoryId": 999,
       "name": "loops radio",
-      "favicon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+      "icon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
       "tags": null,
       "alternatives": [
         {
@@ -3350,7 +3282,7 @@
       "id": 165,
       "categoryId": 999,
       "name": "Loops Radio Elektronica Station",
-      "favicon": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
+      "icon": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
       "tags": "elektronik",
       "alternatives": [
         {
@@ -3368,7 +3300,7 @@
       "id": 166,
       "categoryId": 999,
       "name": "Loops Radio House Station",
-      "favicon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+      "icon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
       "tags": "house",
       "alternatives": [
         {
@@ -3386,7 +3318,7 @@
       "id": 167,
       "categoryId": 999,
       "name": "Loops Radio Progressive",
-      "favicon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+      "icon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
       "tags": null,
       "alternatives": [
         {
@@ -3404,7 +3336,7 @@
       "id": 168,
       "categoryId": 999,
       "name": "Loops Radio Techno",
-      "favicon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+      "icon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
       "tags": null,
       "alternatives": [
         {
@@ -3422,7 +3354,7 @@
       "id": 169,
       "categoryId": 999,
       "name": "Magic FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3440,7 +3372,7 @@
       "id": 170,
       "categoryId": 999,
       "name": "Marmaris Yacht Marin FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "jazz",
         "pop",
@@ -3472,7 +3404,7 @@
       "id": 171,
       "categoryId": 999,
       "name": "Max FM",
-      "favicon": "https://maxfm.com.tr/favicon.ico",
+      "icon": "https://maxfm.com.tr/favicon.ico",
       "tags": [
         "alternative rock",
         "rock"
@@ -3493,7 +3425,7 @@
       "id": 172,
       "categoryId": 999,
       "name": "Max Fm 95.8 ‘Maximum Music' ",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "country",
         "pop",
@@ -3524,7 +3456,7 @@
       "id": 173,
       "categoryId": 999,
       "name": "Max Fm 95.8 Maximum Music",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3542,7 +3474,7 @@
       "id": 174,
       "categoryId": 999,
       "name": "MaxFM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3560,7 +3492,7 @@
       "id": 175,
       "categoryId": 999,
       "name": "Mayday Records",
-      "favicon": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
+      "icon": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
       "tags": [
         "electronic",
         "progressive house",
@@ -3582,7 +3514,7 @@
       "id": 176,
       "categoryId": 999,
       "name": "Med Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -3600,7 +3532,7 @@
       "id": 177,
       "categoryId": 999,
       "name": "Mega Ask FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hits",
         "oldies",
@@ -3623,7 +3555,7 @@
       "id": 178,
       "categoryId": 999,
       "name": "MEGA SİTE",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3650,7 +3582,7 @@
       "id": 179,
       "categoryId": 999,
       "name": "Mega Site .",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3668,7 +3600,7 @@
       "id": 180,
       "categoryId": 999,
       "name": "MEGASITE",
-      "favicon": "https://www.megasite.com.tr/wp-content/uploads/2022/10/logo.png",
+      "icon": "https://www.megasite.com.tr/wp-content/uploads/2022/10/logo.png",
       "tags": null,
       "alternatives": [
         {
@@ -3686,7 +3618,7 @@
       "id": 181,
       "categoryId": 999,
       "name": "MERKEZ FM SAMSUN TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3704,7 +3636,7 @@
       "id": 182,
       "categoryId": 999,
       "name": "meteorolojinin sesi",
-      "favicon": null,
+      "icon": null,
       "tags": "news",
       "alternatives": [
         {
@@ -3722,7 +3654,7 @@
       "id": 183,
       "categoryId": 999,
       "name": "Metro FM",
-      "favicon": "https://metrofm.com.tr/favicon.ico",
+      "icon": "https://metrofm.com.tr/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -3740,7 +3672,7 @@
       "id": 184,
       "categoryId": 999,
       "name": "Metro fm turkey",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3758,7 +3690,7 @@
       "id": 185,
       "categoryId": 999,
       "name": "Moral FM",
-      "favicon": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
+      "icon": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
       "tags": null,
       "alternatives": [
         {
@@ -3776,7 +3708,7 @@
       "id": 186,
       "categoryId": 999,
       "name": "MPL Radyo",
-      "favicon": "https://www.mihr.com/Content/images/mihrcom.ico",
+      "icon": "https://www.mihr.com/Content/images/mihrcom.ico",
       "tags": null,
       "alternatives": [
         {
@@ -3794,7 +3726,7 @@
       "id": 187,
       "categoryId": 999,
       "name": "Mydonose Türk",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3812,7 +3744,7 @@
       "id": 188,
       "categoryId": 999,
       "name": "no name",
-      "favicon": "https://apacikradyo.com.tr/logo1024",
+      "icon": "https://apacikradyo.com.tr/logo1024",
       "tags": [
         "classical music",
         "jazz",
@@ -3836,7 +3768,7 @@
       "id": 189,
       "categoryId": 999,
       "name": "Nr1",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3854,7 +3786,7 @@
       "id": 190,
       "categoryId": 999,
       "name": "NRG Türk",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3872,7 +3804,7 @@
       "id": 191,
       "categoryId": 999,
       "name": "NTV Radyo",
-      "favicon": "http://www.ntvradyo.com.tr/favicon.ico",
+      "icon": "http://www.ntvradyo.com.tr/favicon.ico",
       "tags": [
         "news",
         "haber",
@@ -3904,7 +3836,7 @@
       "id": 192,
       "categoryId": 999,
       "name": "Number one",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3922,7 +3854,7 @@
       "id": 193,
       "categoryId": 999,
       "name": "NUMBER ONE  TURK AJDA PEKKAN",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3940,7 +3872,7 @@
       "id": 194,
       "categoryId": 999,
       "name": "Number One Best Of",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3958,7 +3890,7 @@
       "id": 195,
       "categoryId": 999,
       "name": "Number One JAZZ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3976,7 +3908,7 @@
       "id": 196,
       "categoryId": 999,
       "name": "NUMBER ONE LOUNGE",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -3994,7 +3926,7 @@
       "id": 197,
       "categoryId": 999,
       "name": "Number One Türk",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4012,7 +3944,7 @@
       "id": 198,
       "categoryId": 999,
       "name": "NUMBER ONE WORLD",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4030,7 +3962,7 @@
       "id": 199,
       "categoryId": 999,
       "name": "NUMBERONE CLASSIC TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4048,7 +3980,7 @@
       "id": 200,
       "categoryId": 999,
       "name": "NUMBERONE JAZZ TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4066,7 +3998,7 @@
       "id": 201,
       "categoryId": 999,
       "name": "Numberone Turk",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -4084,7 +4016,7 @@
       "id": 202,
       "categoryId": 999,
       "name": "NUMBERONE WORLD TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4102,7 +4034,7 @@
       "id": 203,
       "categoryId": 999,
       "name": "NUR Radyo",
-      "favicon": "https://www.mihr.com/Content/images/mihrcom.ico",
+      "icon": "https://www.mihr.com/Content/images/mihrcom.ico",
       "tags": null,
       "alternatives": [
         {
@@ -4120,7 +4052,7 @@
       "id": 204,
       "categoryId": 999,
       "name": "Odea Radyo",
-      "favicon": "https://www.canliradyodinle.fm/wp-content/uploads/odea-radyo.jpg",
+      "icon": "https://www.canliradyodinle.fm/wp-content/uploads/odea-radyo.jpg",
       "tags": null,
       "alternatives": [
         {
@@ -4138,7 +4070,7 @@
       "id": 205,
       "categoryId": 999,
       "name": "Onur Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -4156,7 +4088,7 @@
       "id": 206,
       "categoryId": 999,
       "name": "Ostim Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4174,7 +4106,7 @@
       "id": 207,
       "categoryId": 999,
       "name": "oyunpiyat",
-      "favicon": null,
+      "icon": null,
       "tags": "karışık",
       "alternatives": [
         {
@@ -4192,7 +4124,7 @@
       "id": 208,
       "categoryId": 999,
       "name": "Özel FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4210,7 +4142,7 @@
       "id": 209,
       "categoryId": 999,
       "name": "Pal Doğa",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -4228,7 +4160,7 @@
       "id": 210,
       "categoryId": 999,
       "name": "Pal Fm",
-      "favicon": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
+      "icon": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
       "tags": "pop",
       "alternatives": [
         {
@@ -4246,7 +4178,7 @@
       "id": 211,
       "categoryId": 999,
       "name": "PAL Nostalji",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4264,7 +4196,7 @@
       "id": 212,
       "categoryId": 999,
       "name": "Pal station",
-      "favicon": "https://palstation106.com/img/logo/pal-station.ico",
+      "icon": "https://palstation106.com/img/logo/pal-station.ico",
       "tags": null,
       "alternatives": [
         {
@@ -4282,7 +4214,7 @@
       "id": 213,
       "categoryId": 999,
       "name": "Park Fm",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -4300,7 +4232,7 @@
       "id": 214,
       "categoryId": 999,
       "name": "Pazarcık",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -4318,7 +4250,7 @@
       "id": 215,
       "categoryId": 999,
       "name": "Pir Yolu",
-      "favicon": "http://radyopiryolu.canliyayinda.com:8165/favicon.ico",
+      "icon": "http://radyopiryolu.canliyayinda.com:8165/favicon.ico",
       "tags": "classical",
       "alternatives": [
         {
@@ -4336,7 +4268,7 @@
       "id": 216,
       "categoryId": 999,
       "name": "playdanceradio",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4363,7 +4295,7 @@
       "id": 217,
       "categoryId": 999,
       "name": "playdancetürk",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4381,7 +4313,7 @@
       "id": 218,
       "categoryId": 999,
       "name": "pop 90 turkey",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4399,7 +4331,7 @@
       "id": 219,
       "categoryId": 999,
       "name": "POP HOME",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4417,7 +4349,7 @@
       "id": 220,
       "categoryId": 999,
       "name": "POP LAND",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4435,7 +4367,7 @@
       "id": 221,
       "categoryId": 999,
       "name": "Power dance",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "clubbing",
         "dance",
@@ -4467,7 +4399,7 @@
       "id": 222,
       "categoryId": 999,
       "name": "POWER EARTH",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -4485,7 +4417,7 @@
       "id": 223,
       "categoryId": 999,
       "name": "Power FM Türkiye",
-      "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
+      "icon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
       "tags": null,
       "alternatives": [
         {
@@ -4503,7 +4435,7 @@
       "id": 224,
       "categoryId": 999,
       "name": "Power French Cafe",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4521,7 +4453,7 @@
       "id": 225,
       "categoryId": 999,
       "name": "Power Gold TR",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4539,7 +4471,7 @@
       "id": 226,
       "categoryId": 999,
       "name": "Power love",
-      "favicon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=825",
+      "icon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=825",
       "tags": "classical",
       "alternatives": [
         {
@@ -4584,7 +4516,7 @@
       "id": 227,
       "categoryId": 999,
       "name": "power plus",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4602,7 +4534,7 @@
       "id": 228,
       "categoryId": 999,
       "name": "Power POP",
-      "favicon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
+      "icon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
       "tags": [
         "00s",
         "70s",
@@ -4627,7 +4559,7 @@
       "id": 229,
       "categoryId": 999,
       "name": "Power R&B Hip-Hop",
-      "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
+      "icon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
       "tags": null,
       "alternatives": [
         {
@@ -4645,7 +4577,7 @@
       "id": 230,
       "categoryId": 999,
       "name": "Power Smooth Jazz",
-      "favicon": "http://www.powerapp.com.tr/favicon.ico",
+      "icon": "http://www.powerapp.com.tr/favicon.ico",
       "tags": "smooth jazz",
       "alternatives": [
         {
@@ -4663,7 +4595,7 @@
       "id": 231,
       "categoryId": 999,
       "name": "POWER TÜRK DANS TÜRKİYE",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4681,7 +4613,7 @@
       "id": 232,
       "categoryId": 999,
       "name": "POWER TÜRK FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4699,7 +4631,7 @@
       "id": 233,
       "categoryId": 999,
       "name": "power türk taptaze",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4717,7 +4649,7 @@
       "id": 234,
       "categoryId": 999,
       "name": "POWER XL TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4735,7 +4667,7 @@
       "id": 235,
       "categoryId": 999,
       "name": "powerturk",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -4753,7 +4685,7 @@
       "id": 236,
       "categoryId": 999,
       "name": "PowerTürk Akustik",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4771,7 +4703,7 @@
       "id": 237,
       "categoryId": 999,
       "name": "PowerTürk Dans",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4789,7 +4721,7 @@
       "id": 238,
       "categoryId": 999,
       "name": "POWERTÜRK FM TURKEY 2",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4807,7 +4739,7 @@
       "id": 239,
       "categoryId": 999,
       "name": "Powerturk R&B Hip Hop",
-      "favicon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=843",
+      "icon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=843",
       "tags": null,
       "alternatives": [
         {
@@ -4825,7 +4757,7 @@
       "id": 240,
       "categoryId": 999,
       "name": "Radio 44",
-      "favicon": "https://radyo44.com.tr/favicons/favicon-32x32.png",
+      "icon": "https://radyo44.com.tr/favicons/favicon-32x32.png",
       "tags": [
         "hits",
         "pop",
@@ -4848,7 +4780,7 @@
       "id": 241,
       "categoryId": 999,
       "name": "Radio 5 Turkey",
-      "favicon": "https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png",
+      "icon": "https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png",
       "tags": [
         "adult contemporary",
         "hits",
@@ -4871,7 +4803,7 @@
       "id": 242,
       "categoryId": 999,
       "name": "Radio Antalya",
-      "favicon": "https://radioantalya.com/favicon.ico",
+      "icon": "https://radioantalya.com/favicon.ico",
       "tags": [
         "downtempo",
         "electronica",
@@ -4894,7 +4826,7 @@
       "id": 243,
       "categoryId": 999,
       "name": "Radio Ava Turkiye",
-      "favicon": null,
+      "icon": null,
       "tags": "pop music",
       "alternatives": [
         {
@@ -4912,7 +4844,7 @@
       "id": 244,
       "categoryId": 999,
       "name": "Radio Glamorize",
-      "favicon": "https://radioglamorize.com/wp-content/uploads/2020/05/cropped-sdiavatar2-180x180.png",
+      "icon": "https://radioglamorize.com/wp-content/uploads/2020/05/cropped-sdiavatar2-180x180.png",
       "tags": [
         "electronic music",
         "progressive house"
@@ -4933,7 +4865,7 @@
       "id": 245,
       "categoryId": 999,
       "name": "Radio Life Kayseri",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4951,7 +4883,7 @@
       "id": 246,
       "categoryId": 999,
       "name": "Radio Light",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -4969,7 +4901,7 @@
       "id": 247,
       "categoryId": 999,
       "name": "Radio Line ",
-      "favicon": "https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png",
+      "icon": "https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png",
       "tags": [
         "eclectic",
         "oldies",
@@ -4993,7 +4925,7 @@
       "id": 248,
       "categoryId": 999,
       "name": "radio Megasite",
-      "favicon": null,
+      "icon": null,
       "tags": "music",
       "alternatives": [
         {
@@ -5020,7 +4952,7 @@
       "id": 249,
       "categoryId": 999,
       "name": "Radio Megasite ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5038,7 +4970,7 @@
       "id": 250,
       "categoryId": 999,
       "name": "Radio Mydonose",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5056,7 +4988,7 @@
       "id": 251,
       "categoryId": 999,
       "name": "Radio Wanderlust",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "journey",
         "travel",
@@ -5079,7 +5011,7 @@
       "id": 252,
       "categoryId": 999,
       "name": "Radioo Mega site ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5097,7 +5029,7 @@
       "id": 253,
       "categoryId": 999,
       "name": "Radyo 13",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5115,7 +5047,7 @@
       "id": 254,
       "categoryId": 999,
       "name": "Radyo 2000 Erzincan",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5133,7 +5065,7 @@
       "id": 255,
       "categoryId": 999,
       "name": "Radyo 35",
-      "favicon": "https://www.radyo35.com/img/logo.png",
+      "icon": "https://www.radyo35.com/img/logo.png",
       "tags": [
         "pop",
         "türkçe"
@@ -5154,7 +5086,7 @@
       "id": 256,
       "categoryId": 999,
       "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
-      "favicon": "https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png",
+      "icon": "https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png",
       "tags": [
         "anthems",
         "epic",
@@ -5205,7 +5137,7 @@
       "id": 257,
       "categoryId": 999,
       "name": "Radyo 45’lik, 1970’ler, 1980’ler ve 1990’lar ",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "1970’ler",
         "1980’ler ve 1990’lar",
@@ -5227,7 +5159,7 @@
       "id": 258,
       "categoryId": 999,
       "name": "Radyo 45lik - 45'lik Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5245,7 +5177,7 @@
       "id": 259,
       "categoryId": 999,
       "name": "Radyo 45lik Canlı Yayın - En İyi Türkçe Nostalji Şarkılar | 70ler 80ler ve 90lar",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "70er",
         "80er",
@@ -5267,7 +5199,7 @@
       "id": 260,
       "categoryId": 999,
       "name": "Radyo 45lik yeni",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "70s",
         "80s",
@@ -5291,7 +5223,7 @@
       "id": 261,
       "categoryId": 999,
       "name": "Radyo 7",
-      "favicon": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
+      "icon": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
       "tags": null,
       "alternatives": [
         {
@@ -5309,7 +5241,7 @@
       "id": 262,
       "categoryId": 999,
       "name": "Radyo 9",
-      "favicon": "https://www.radyo9.com/logo.png",
+      "icon": "https://www.radyo9.com/logo.png",
       "tags": [
         "9",
         "99.9",
@@ -5353,7 +5285,7 @@
       "id": 263,
       "categoryId": 999,
       "name": "Radyo 90s",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -5371,7 +5303,7 @@
       "id": 264,
       "categoryId": 999,
       "name": "Radyo A (Radyo Anadolu Üniversitesi)",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "blues",
         "folk",
@@ -5394,7 +5326,7 @@
       "id": 265,
       "categoryId": 999,
       "name": "RADYO AKDENIZ",
-      "favicon": "https://www.radyoakdeniz.com/wp-content/uploads/2024/03/cropped-radyoakdeniz-180x180.png",
+      "icon": "https://www.radyoakdeniz.com/wp-content/uploads/2024/03/cropped-radyoakdeniz-180x180.png",
       "tags": null,
       "alternatives": [
         {
@@ -5412,7 +5344,7 @@
       "id": 266,
       "categoryId": 999,
       "name": "Radyo Alaturka",
-      "favicon": "https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png",
+      "icon": "https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png",
       "tags": null,
       "alternatives": [
         {
@@ -5430,7 +5362,7 @@
       "id": 267,
       "categoryId": 999,
       "name": "Radyo Alevi Canlar",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5448,7 +5380,7 @@
       "id": 268,
       "categoryId": 999,
       "name": "Radyo Arkadaş",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -5466,7 +5398,7 @@
       "id": 269,
       "categoryId": 999,
       "name": "Radyo Banko",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -5484,7 +5416,7 @@
       "id": 270,
       "categoryId": 999,
       "name": "Radyo Banko Fm",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5502,7 +5434,7 @@
       "id": 271,
       "categoryId": 999,
       "name": "Radyo Bilkent",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5520,7 +5452,7 @@
       "id": 272,
       "categoryId": 999,
       "name": "Radyo Can",
-      "favicon": "http://www.radyocan.net/favicon.ico",
+      "icon": "http://www.radyocan.net/favicon.ico",
       "tags": [
         "93.4",
         "radyo can",
@@ -5546,7 +5478,7 @@
       "id": 273,
       "categoryId": 999,
       "name": "Radyo D",
-      "favicon": "https://cdn-radiotime-logos.tunein.com/s14264d.png",
+      "icon": "https://cdn-radiotime-logos.tunein.com/s14264d.png",
       "tags": null,
       "alternatives": [
         {
@@ -5564,7 +5496,7 @@
       "id": 274,
       "categoryId": 999,
       "name": "Radyo Dejavu",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5582,7 +5514,7 @@
       "id": 275,
       "categoryId": 999,
       "name": "Radyo Delal",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5600,7 +5532,7 @@
       "id": 276,
       "categoryId": 999,
       "name": "Radyo Duygusal",
-      "favicon": "https://radyoduygusal.com/uploads/favicon/oooooooo.jpg",
+      "icon": "https://radyoduygusal.com/uploads/favicon/oooooooo.jpg",
       "tags": null,
       "alternatives": [
         {
@@ -5618,7 +5550,7 @@
       "id": 277,
       "categoryId": 999,
       "name": "Radyo Ekin",
-      "favicon": "https://www.radyoekin.net/favicon.ico",
+      "icon": "https://www.radyoekin.net/favicon.ico",
       "tags": "classical",
       "alternatives": [
         {
@@ -5645,7 +5577,7 @@
       "id": 278,
       "categoryId": 999,
       "name": "Radyo Eksen",
-      "favicon": null,
+      "icon": null,
       "tags": "rock",
       "alternatives": [
         {
@@ -5663,7 +5595,7 @@
       "id": 279,
       "categoryId": 999,
       "name": "Radyo Eksen 96.2",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "alternative rock",
         "indie",
@@ -5686,11 +5618,10 @@
       "id": 280,
       "categoryId": 999,
       "name": "Radyo EN",
-      "favicon": "https://www.radyoen.com.tr/images/radyo-en-logo.png",
+      "icon": "https://www.radyoen.com.tr/images/radyo-en-logo.png",
       "tags": [
         "ilahi",
-        "islam",
-        "islamic",
+        "İslami",
         "konya"
       ],
       "alternatives": [
@@ -5709,7 +5640,7 @@
       "id": 281,
       "categoryId": 999,
       "name": "Radyo Ender",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "classic hits",
         "hits",
@@ -5732,7 +5663,7 @@
       "id": 282,
       "categoryId": 999,
       "name": "Radyo Erkan",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5750,7 +5681,7 @@
       "id": 283,
       "categoryId": 999,
       "name": "Radyo Esenler",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -5768,7 +5699,7 @@
       "id": 284,
       "categoryId": 999,
       "name": "Radyo Fenomen",
-      "favicon": null,
+      "icon": null,
       "tags": "turkey",
       "alternatives": [
         {
@@ -5786,7 +5717,7 @@
       "id": 285,
       "categoryId": 999,
       "name": "RADYO FENOMEN 2010 LAR",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5804,7 +5735,7 @@
       "id": 286,
       "categoryId": 999,
       "name": "Radyo Fenomen Clubbin",
-      "favicon": "https://cdn.radyofenomen.com/artwork/logo20.png",
+      "icon": "https://cdn.radyofenomen.com/artwork/logo20.png",
       "tags": [
         "club",
         "clubbing",
@@ -5831,7 +5762,7 @@
       "id": 287,
       "categoryId": 999,
       "name": "Radyo Fenomen Dans",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5849,12 +5780,8 @@
       "id": 288,
       "categoryId": 999,
       "name": "Radyo Fıtrat",
-      "favicon": null,
-      "tags": [
-        "islamic",
-        "quran",
-        "religion"
-      ],
+      "icon": null,
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -5871,7 +5798,7 @@
       "id": 289,
       "categoryId": 999,
       "name": "Radyo Gökçeada",
-      "favicon": "https://www.radyogokceada.net/favicon.ico",
+      "icon": "https://www.radyogokceada.net/favicon.ico",
       "tags": [
         "90s",
         "aor / slow rock / soft rock (adult-orientated rock e.g. the eagles.)",
@@ -5895,7 +5822,7 @@
       "id": 290,
       "categoryId": 999,
       "name": "Radyo Göktürk",
-      "favicon": "https://radyogokturk.com/dinle/doc/avatar.jpg",
+      "icon": "https://radyogokturk.com/dinle/doc/avatar.jpg",
       "tags": null,
       "alternatives": [
         {
@@ -5913,7 +5840,7 @@
       "id": 291,
       "categoryId": 999,
       "name": "Radyo Gol",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -5940,7 +5867,7 @@
       "id": 292,
       "categoryId": 999,
       "name": "Radyo Gül",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -5958,7 +5885,7 @@
       "id": 293,
       "categoryId": 999,
       "name": "Radyo Hakkın Sesi",
-      "favicon": "https://mihr.com/Content/images/logo2.png",
+      "icon": "https://mihr.com/Content/images/logo2.png",
       "tags": null,
       "alternatives": [
         {
@@ -5976,7 +5903,7 @@
       "id": 294,
       "categoryId": 999,
       "name": "Radyo Havaları",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hits",
         "pop",
@@ -5998,7 +5925,7 @@
       "id": 295,
       "categoryId": 999,
       "name": "Radyo Hayat",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6016,7 +5943,7 @@
       "id": 296,
       "categoryId": 999,
       "name": "Radyo Hidayet Çağı",
-      "favicon": "https://www.mihr.com/Content/images/mihrcom.ico",
+      "icon": "https://www.mihr.com/Content/images/mihrcom.ico",
       "tags": null,
       "alternatives": [
         {
@@ -6034,7 +5961,7 @@
       "id": 297,
       "categoryId": 999,
       "name": "Radyo ILEF Ankara",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "ankara",
         "ankara üniversitesi",
@@ -6059,7 +5986,7 @@
       "id": 298,
       "categoryId": 999,
       "name": "Radyo Karabalı",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6077,8 +6004,8 @@
       "id": 299,
       "categoryId": 999,
       "name": "Radyo Kur'an",
-      "favicon": null,
-      "tags": "islamic",
+      "icon": null,
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -6095,7 +6022,7 @@
       "id": 300,
       "categoryId": 999,
       "name": "Radyo light",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6113,7 +6040,7 @@
       "id": 301,
       "categoryId": 999,
       "name": "Radyo Magico",
-      "favicon": "https://image.radioking.io/radios/725117/logo/9b15af57-cb21-49ca-9ca5-a6bbe3f1bf28.png",
+      "icon": "https://image.radioking.io/radios/725117/logo/9b15af57-cb21-49ca-9ca5-a6bbe3f1bf28.png",
       "tags": [
         "classic rock",
         "dance",
@@ -6137,7 +6064,7 @@
       "id": 302,
       "categoryId": 999,
       "name": "Radyo Maranata",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6155,7 +6082,7 @@
       "id": 303,
       "categoryId": 999,
       "name": "Radyo Megasite",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "music",
         "http://mega.netradyom.com:7900/listen.pls"
@@ -6185,7 +6112,7 @@
       "id": 304,
       "categoryId": 999,
       "name": "radyo mezopotamya",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6203,7 +6130,7 @@
       "id": 305,
       "categoryId": 999,
       "name": "Radyo MODyAn",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "kadife sokak",
         "kadıköy",
@@ -6227,7 +6154,7 @@
       "id": 306,
       "categoryId": 999,
       "name": "Radyo Mori",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6245,7 +6172,7 @@
       "id": 307,
       "categoryId": 999,
       "name": "Radyo Munzur 97.7",
-      "favicon": null,
+      "icon": null,
       "tags": "dersim",
       "alternatives": [
         {
@@ -6263,11 +6190,10 @@
       "id": 308,
       "categoryId": 999,
       "name": "Radyo Nida",
-      "favicon": "https://radyonida.com.tr/dist/img/radyo-nida.jpg?2",
+      "icon": "https://radyonida.com.tr/dist/img/radyo-nida.jpg?2",
       "tags": [
         "ilahi",
-        "islam",
-        "muslim",
+        "İslami",
         "turk"
       ],
       "alternatives": [
@@ -6286,7 +6212,7 @@
       "id": 309,
       "categoryId": 999,
       "name": "Radyo ODTU",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6304,7 +6230,7 @@
       "id": 310,
       "categoryId": 999,
       "name": "Radyo ODTU - Rock",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "classic rock",
         "hard rock",
@@ -6327,7 +6253,7 @@
       "id": 311,
       "categoryId": 999,
       "name": "Radyo Odtu Easy",
-      "favicon": null,
+      "icon": null,
       "tags": "easy listening",
       "alternatives": [
         {
@@ -6345,7 +6271,7 @@
       "id": 312,
       "categoryId": 999,
       "name": "Radyo ODTU Hiphop",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hiphop",
         "rap"
@@ -6366,7 +6292,7 @@
       "id": 313,
       "categoryId": 999,
       "name": "RADYO RİTİM ERZURUM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6384,7 +6310,7 @@
       "id": 314,
       "categoryId": 999,
       "name": "Radyo S",
-      "favicon": "http://radyos.com.tr/apple-touch-icon.png",
+      "icon": "http://radyos.com.tr/apple-touch-icon.png",
       "tags": [
         "dance",
         "dj mix",
@@ -6407,7 +6333,7 @@
       "id": 315,
       "categoryId": 999,
       "name": "Radyo Seymen",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -6425,7 +6351,7 @@
       "id": 316,
       "categoryId": 999,
       "name": "Radyo Sinerji",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6443,7 +6369,7 @@
       "id": 317,
       "categoryId": 999,
       "name": "Radyo Şiran",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -6461,7 +6387,7 @@
       "id": 318,
       "categoryId": 999,
       "name": "Radyo Slow Time",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -6479,7 +6405,7 @@
       "id": 319,
       "categoryId": 999,
       "name": "Radyo Spor",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "classical",
         "sport"
@@ -6509,7 +6435,7 @@
       "id": 320,
       "categoryId": 999,
       "name": "Radyo Sputnik",
-      "favicon": "https://cdn.img.anlatilaninotesi.com.tr/i/favicon/favicon-192x192.png",
+      "icon": "https://cdn.img.anlatilaninotesi.com.tr/i/favicon/favicon-192x192.png",
       "tags": [
         "news",
         "pop",
@@ -6531,7 +6457,7 @@
       "id": 321,
       "categoryId": 999,
       "name": "Radyo Taksi",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -6549,7 +6475,7 @@
       "id": 322,
       "categoryId": 999,
       "name": "Radyo Trafik 104.2 Ankara",
-      "favicon": "http://www.otomobil.com.tr/wp-content/uploads/2012/04/RADYO_TRAFIK_1.jpg",
+      "icon": "http://www.otomobil.com.tr/wp-content/uploads/2012/04/RADYO_TRAFIK_1.jpg",
       "tags": [
         "ankara",
         "traffic",
@@ -6571,7 +6497,7 @@
       "id": 323,
       "categoryId": 999,
       "name": "Radyo Trafik İstanbul",
-      "favicon": null,
+      "icon": null,
       "tags": "traffic radio broadcast",
       "alternatives": [
         {
@@ -6589,7 +6515,7 @@
       "id": 324,
       "categoryId": 999,
       "name": "Radyo Trio",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6616,7 +6542,7 @@
       "id": 325,
       "categoryId": 999,
       "name": "Radyo Turkuvaz",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6634,7 +6560,7 @@
       "id": 326,
       "categoryId": 999,
       "name": "Radyo Vatan Türkü",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6652,7 +6578,7 @@
       "id": 327,
       "categoryId": 999,
       "name": "Radyo Venüs",
-      "favicon": "https://www.radyovenus.net/wp-content/uploads/2020/11/radyovenus-logo.png",
+      "icon": "https://www.radyovenus.net/wp-content/uploads/2020/11/radyovenus-logo.png",
       "tags": "pop music",
       "alternatives": [
         {
@@ -6670,7 +6596,7 @@
       "id": 328,
       "categoryId": 999,
       "name": "Radyo Viva",
-      "favicon": "https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png",
+      "icon": "https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png",
       "tags": "pop",
       "alternatives": [
         {
@@ -6706,7 +6632,7 @@
       "id": 329,
       "categoryId": 999,
       "name": "Radyo Voyage",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "folk",
         "mood",
@@ -6759,7 +6685,7 @@
       "id": 330,
       "categoryId": 999,
       "name": "Radyo Yalova ",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -6777,7 +6703,7 @@
       "id": 331,
       "categoryId": 999,
       "name": "Radyo Yol",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6795,7 +6721,7 @@
       "id": 332,
       "categoryId": 999,
       "name": "RadyoVoyage",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6813,7 +6739,7 @@
       "id": 333,
       "categoryId": 999,
       "name": "radyozergan",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6831,7 +6757,7 @@
       "id": 334,
       "categoryId": 999,
       "name": "retro turk",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -6858,8 +6784,8 @@
       "id": 335,
       "categoryId": 999,
       "name": "Ribat FM",
-      "favicon": null,
-      "tags": "islamic",
+      "icon": null,
+      "tags": "İslami",
       "alternatives": [
         {
           "name": "Alternative 1",
@@ -6876,7 +6802,7 @@
       "id": 336,
       "categoryId": 999,
       "name": "Risalet Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6894,7 +6820,7 @@
       "id": 337,
       "categoryId": 999,
       "name": "RS FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -6912,7 +6838,7 @@
       "id": 338,
       "categoryId": 999,
       "name": "S1lhoutte - 90's FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "90s",
         "slow"
@@ -6933,7 +6859,7 @@
       "id": 339,
       "categoryId": 999,
       "name": "S1lhoutte - Karadeniz FM",
-      "favicon": null,
+      "icon": null,
       "tags": "karadeniz",
       "alternatives": [
         {
@@ -6951,7 +6877,7 @@
       "id": 340,
       "categoryId": 999,
       "name": "S1lhoutte - Slow FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "pop",
         "rock",
@@ -6973,7 +6899,7 @@
       "id": 341,
       "categoryId": 999,
       "name": "S1LHOUTTE ANKARA HAVALARI",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "turkish music",
         "turk"
@@ -7003,7 +6929,7 @@
       "id": 342,
       "categoryId": 999,
       "name": "S1lhoutte Arabesk FM",
-      "favicon": null,
+      "icon": null,
       "tags": "arabesk",
       "alternatives": [
         {
@@ -7021,7 +6947,7 @@
       "id": 343,
       "categoryId": 999,
       "name": "Semerkand Radyo",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "dini",
         "ilahi",
@@ -7046,7 +6972,7 @@
       "id": 344,
       "categoryId": 999,
       "name": "Serhat FM",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7064,7 +6990,7 @@
       "id": 345,
       "categoryId": 999,
       "name": "Serhat FM 91.5",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7082,7 +7008,7 @@
       "id": 346,
       "categoryId": 999,
       "name": "Sezen Radyo",
-      "favicon": "https://www.sezenradyo.com/favicon",
+      "icon": "https://www.sezenradyo.com/favicon",
       "tags": [
         "320mpbs",
         "jazz",
@@ -7115,7 +7041,7 @@
       "id": 347,
       "categoryId": 999,
       "name": "Show radio ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7133,7 +7059,7 @@
       "id": 348,
       "categoryId": 999,
       "name": "Show radio",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7151,7 +7077,7 @@
       "id": 349,
       "categoryId": 999,
       "name": "Side FM Antalya",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7169,7 +7095,7 @@
       "id": 350,
       "categoryId": 999,
       "name": "Slow Turk",
-      "favicon": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
+      "icon": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
       "tags": null,
       "alternatives": [
         {
@@ -7187,7 +7113,7 @@
       "id": 351,
       "categoryId": 999,
       "name": "Standart.fm",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7205,7 +7131,7 @@
       "id": 352,
       "categoryId": 999,
       "name": "Süper 2 FM",
-      "favicon": null,
+      "icon": null,
       "tags": [
         "hits",
         "pop",
@@ -7227,7 +7153,7 @@
       "id": 353,
       "categoryId": 999,
       "name": "Super Fm",
-      "favicon": "https://superfm.com.tr/favicon.ico",
+      "icon": "https://superfm.com.tr/favicon.ico",
       "tags": "pop",
       "alternatives": [
         {
@@ -7245,7 +7171,7 @@
       "id": 354,
       "categoryId": 999,
       "name": "Süper FM",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -7272,7 +7198,7 @@
       "id": 355,
       "categoryId": 999,
       "name": "SUPER FM 2 TURKEY",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7290,7 +7216,7 @@
       "id": 356,
       "categoryId": 999,
       "name": "Tarkan",
-      "favicon": null,
+      "icon": null,
       "tags": "discography",
       "alternatives": [
         {
@@ -7308,7 +7234,7 @@
       "id": 357,
       "categoryId": 999,
       "name": "Tarsus FM",
-      "favicon": "https://tarsusfm.com.tr/favicon.ico",
+      "icon": "https://tarsusfm.com.tr/favicon.ico",
       "tags": [
         "country music",
         "musiki",
@@ -7332,7 +7258,7 @@
       "id": 358,
       "categoryId": 999,
       "name": "Tezene",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -7350,7 +7276,7 @@
       "id": 359,
       "categoryId": 999,
       "name": "TGRT FM",
-      "favicon": null,
+      "icon": null,
       "tags": "news talk music",
       "alternatives": [
         {
@@ -7377,7 +7303,7 @@
       "id": 360,
       "categoryId": 999,
       "name": "TheRockRadio",
-      "favicon": "https://therock.com.tr/images/favicon.png",
+      "icon": "https://therock.com.tr/images/favicon.png",
       "tags": null,
       "alternatives": [
         {
@@ -7395,7 +7321,7 @@
       "id": 361,
       "categoryId": 999,
       "name": "trakyafm",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -7413,7 +7339,7 @@
       "id": 362,
       "categoryId": 999,
       "name": "trio",
-      "favicon": null,
+      "icon": null,
       "tags": "music",
       "alternatives": [
         {
@@ -7431,7 +7357,7 @@
       "id": 363,
       "categoryId": 999,
       "name": "TRK YUSUF FM",
-      "favicon": "https://stream.zeno.fm/zxdq9cx917htv",
+      "icon": "https://stream.zeno.fm/zxdq9cx917htv",
       "tags": "jazz",
       "alternatives": [
         {
@@ -7449,7 +7375,7 @@
       "id": 364,
       "categoryId": 999,
       "name": "TRT Antalya",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25a3f157-c5a0-4506-b513-5e63518173bb.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25a3f157-c5a0-4506-b513-5e63518173bb.png",
       "tags": "local radio",
       "alternatives": [
         {
@@ -7467,7 +7393,7 @@
       "id": 365,
       "categoryId": 999,
       "name": "TRT Çukurova",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/12de3bf5-2267-4eea-9e1c-22cec7288294.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/12de3bf5-2267-4eea-9e1c-22cec7288294.png",
       "tags": null,
       "alternatives": [
         {
@@ -7485,7 +7411,7 @@
       "id": 366,
       "categoryId": 999,
       "name": "TRT Diyanet Çocuk ",
-      "favicon": null,
+      "icon": null,
       "tags": "pop",
       "alternatives": [
         {
@@ -7503,7 +7429,7 @@
       "id": 367,
       "categoryId": 999,
       "name": "TRT Diyarbakır",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/41d20783-0d27-48af-a16b-d1df88610d70.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/41d20783-0d27-48af-a16b-d1df88610d70.png",
       "tags": "local radio",
       "alternatives": [
         {
@@ -7521,7 +7447,7 @@
       "id": 368,
       "categoryId": 999,
       "name": "TRT Erzurum",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/60b756f6-d53d-42dd-909b-7e09f2c38d82.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/60b756f6-d53d-42dd-909b-7e09f2c38d82.png",
       "tags": "local radio",
       "alternatives": [
         {
@@ -7539,7 +7465,7 @@
       "id": 369,
       "categoryId": 999,
       "name": "TRT FM",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png",
       "tags": null,
       "alternatives": [
         {
@@ -7557,7 +7483,7 @@
       "id": 370,
       "categoryId": 999,
       "name": "TRT Memleketim FM",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
       "tags": "national radio",
       "alternatives": [
         {
@@ -7575,7 +7501,7 @@
       "id": 371,
       "categoryId": 999,
       "name": "TRT NAĞME",
-      "favicon": "https://cdn-i.pr.trt.com.tr/trtdinle//w768/q70/12467465.jpeg",
+      "icon": "https://cdn-i.pr.trt.com.tr/trtdinle//w768/q70/12467465.jpeg",
       "tags": null,
       "alternatives": [
         {
@@ -7593,7 +7519,7 @@
       "id": 372,
       "categoryId": 999,
       "name": "TRT Radyo 1",
-      "favicon": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210",
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210",
       "tags": null,
       "alternatives": [
         {
@@ -7611,7 +7537,7 @@
       "id": 373,
       "categoryId": 999,
       "name": "TRT Radyo Haber",
-      "favicon": [
+      "icon": [
         "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/20d0b80f-bb7a-4fcb-9a61-88662ebcb2dc.png",
         "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg"
       ],
@@ -7638,28 +7564,10 @@
       ]
     },
     {
-      "id": 374,
-      "categoryId": 999,
-      "name": "TRT Radyo Kurdî ",
-      "favicon": "https://trtkurdi.com.tr/favicon.ico",
-      "tags": "kurdish songs",
-      "alternatives": [
-        {
-          "name": "Alternative 1",
-          "url": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
-          "url_resolved": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
-          "codec": "AAC",
-          "geo_lat": null,
-          "geo_long": null,
-          "geo_distance": null
-        }
-      ]
-    },
-    {
       "id": 375,
       "categoryId": 999,
       "name": "Trt Spor ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7677,7 +7585,7 @@
       "id": 376,
       "categoryId": 999,
       "name": "TRT Trabzon",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/da27e57f-8cc2-4c2b-ad46-a90350e38f14.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/da27e57f-8cc2-4c2b-ad46-a90350e38f14.png",
       "tags": "local radio",
       "alternatives": [
         {
@@ -7695,7 +7603,7 @@
       "id": 377,
       "categoryId": 999,
       "name": "TRT TSR",
-      "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/4eee676f-ab62-437e-85ba-38855d7bd904.png",
+      "icon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/4eee676f-ab62-437e-85ba-38855d7bd904.png",
       "tags": [
         "national radio",
         "türkiye'nin sesi",
@@ -7718,7 +7626,7 @@
       "id": 378,
       "categoryId": 999,
       "name": "TRT Türkü",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7736,7 +7644,7 @@
       "id": 379,
       "categoryId": 999,
       "name": "TRT3",
-      "favicon": "https://cdn-i.pr.trt.com.tr/trtdinle//w360/q70/12467462.jpeg",
+      "icon": "https://cdn-i.pr.trt.com.tr/trtdinle//w360/q70/12467462.jpeg",
       "tags": [
         "classical",
         "culture",
@@ -7763,7 +7671,7 @@
       "id": 380,
       "categoryId": 999,
       "name": "Türkiyem FM",
-      "favicon": "https://turkiyemfm.com",
+      "icon": "https://turkiyemfm.com",
       "tags": "traditional music",
       "alternatives": [
         {
@@ -7781,7 +7689,7 @@
       "id": 381,
       "categoryId": 999,
       "name": "Türkrap FM",
-      "favicon": "https://www.turkrapfm.net/favicon.ico",
+      "icon": "https://www.turkrapfm.net/favicon.ico",
       "tags": [
         "hip-hop",
         "rap"
@@ -7802,7 +7710,7 @@
       "id": 382,
       "categoryId": 999,
       "name": "Türkü Radyo",
-      "favicon": [
+      "icon": [
         "https://www.turkuradyo.info/public/default/images/upload/1190220421012000.png",
         "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png"
       ],
@@ -7844,7 +7752,7 @@
       "id": 383,
       "categoryId": 999,
       "name": "Turkuaz Anadolu",
-      "favicon": null,
+      "icon": null,
       "tags": "classical",
       "alternatives": [
         {
@@ -7862,7 +7770,7 @@
       "id": 384,
       "categoryId": 999,
       "name": "Türkülerle Türkiye",
-      "favicon": null,
+      "icon": null,
       "tags": "türkü",
       "alternatives": [
         {
@@ -7880,7 +7788,7 @@
       "id": 385,
       "categoryId": 999,
       "name": "Turkuvaz Anadolu",
-      "favicon": null,
+      "icon": null,
       "tags": "folk",
       "alternatives": [
         {
@@ -7898,7 +7806,7 @@
       "id": 386,
       "categoryId": 999,
       "name": "Turkuvaz Musiki",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7916,7 +7824,7 @@
       "id": 387,
       "categoryId": 999,
       "name": "Vav Radyo",
-      "favicon": "https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png",
+      "icon": "https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png",
       "tags": null,
       "alternatives": [
         {
@@ -7934,7 +7842,7 @@
       "id": 388,
       "categoryId": 999,
       "name": "Virgin Radio Türkiye",
-      "favicon": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
+      "icon": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
       "tags": [
         "pop",
         "r&b",
@@ -7966,7 +7874,7 @@
       "id": 389,
       "categoryId": 999,
       "name": "Vokal Tr",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
@@ -7984,7 +7892,7 @@
       "id": 390,
       "categoryId": 999,
       "name": "X Radio",
-      "favicon": [
+      "icon": [
         "https://www.xradio.com.tr/favicon.ico",
         "https://xradio.com.tr/favicon.ico"
       ],
@@ -8023,7 +7931,7 @@
       "id": 391,
       "categoryId": 999,
       "name": "Yaren FM",
-      "favicon": "https://tarsusfm.com.tr/favicon.ico",
+      "icon": "https://tarsusfm.com.tr/favicon.ico",
       "tags": [
         "folk music",
         "local radio",
@@ -8046,7 +7954,7 @@
       "id": 392,
       "categoryId": 999,
       "name": "Yeni Radyo Nostaljinin Sesi ",
-      "favicon": null,
+      "icon": null,
       "tags": null,
       "alternatives": [
         {
