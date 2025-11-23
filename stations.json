@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "last_updated": "2025-11-22",
   "stations": [
     {
@@ -972,10 +972,7 @@
       "id": 46,
       "categoryId": 999,
       "name": "Damar Turk FM",
-      "icon": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlkZWbK47GUO6iQFP2yohP0z_5X3WpdjdMQ&amp;s",
-        "https://www.damarturkfm.com/favicon.ico"
-      ],
+      "icon": "https://www.damarturkfm.com/favicon.ico",
       "tags": null,
       "alternatives": [
         {
@@ -2364,10 +2361,7 @@
       "id": 118,
       "categoryId": 999,
       "name": "Hemdem Radyo",
-      "icon": [
-        "https://hemdemradyo.com/favicon.ico",
-        "https://hemdemradyo.com/gri.png"
-      ],
+      "icon": "https://hemdemradyo.com/favicon.ico",
       "tags": [
         "arabesk fantazi",
         "turkish pop",
@@ -3016,10 +3010,7 @@
       "id": 150,
       "categoryId": 999,
       "name": "KRAL FM",
-      "icon": [
-        "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
-        "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png?v=2"
-      ],
+      "icon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
       "tags": null,
       "alternatives": [
         {
@@ -7537,10 +7528,7 @@
       "id": 373,
       "categoryId": 999,
       "name": "TRT Radyo Haber",
-      "icon": [
-        "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/20d0b80f-bb7a-4fcb-9a61-88662ebcb2dc.png",
-        "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg"
-      ],
+      "icon": "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg",
       "tags": "news",
       "alternatives": [
         {
@@ -7710,10 +7698,7 @@
       "id": 382,
       "categoryId": 999,
       "name": "Türkü Radyo",
-      "icon": [
-        "https://www.turkuradyo.info/public/default/images/upload/1190220421012000.png",
-        "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png"
-      ],
+      "icon": "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png",
       "tags": [
         "türkü radyo",
         "folk"
@@ -7892,10 +7877,7 @@
       "id": 390,
       "categoryId": 999,
       "name": "X Radio",
-      "icon": [
-        "https://www.xradio.com.tr/favicon.ico",
-        "https://xradio.com.tr/favicon.ico"
-      ],
+      "icon": "https://www.xradio.com.tr/favicon.ico",
       "tags": "türkçe rap",
       "alternatives": [
         {
