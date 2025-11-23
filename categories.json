@@ -5,61 +5,61 @@
     {
       "id": 1,
       "name": "Pop",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_pop.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_pop.png",
       "description": "En popüler Türkçe pop radyolar"
     },
     {
       "id": 2,
       "name": "Slow",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_slow.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_slow.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 3,
       "name": "Arabesk",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_arabesk.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_arabesk.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 4,
       "name": "THM",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_thm.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_thm.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 5,
       "name": "TSM",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_tsm.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_tsm.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 6,
       "name": "İslami",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_islami.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_islami.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 7,
       "name": "Haber & Spor",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_haber&spor.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_haber&spor.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 8,
       "name": "Rap & Rock",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_rap&rock.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_rap&rock.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 9,
       "name": "Yabancı",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_yabanci.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_yabanci.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
       "id": 10,
       "name": "Klasik",
-      "icon": "https://github.com/kadir133/radioAppJson/blob/main/icons/_klasik.png",
+      "icon": "https://raw.githubusercontent.com/kadir133/radioAppJson/refs/heads/main/icons/_klasik.png",
       "description": "Rock, alternative ve indie müzik"
     },
     {
